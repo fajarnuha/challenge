@@ -1,0 +1,9 @@
+person_A 24
+person_D 15
+person_C 52
+person_B 15
+fajar 21
+ulin 19
+nuha 21
+howard 25
+abdul 52
